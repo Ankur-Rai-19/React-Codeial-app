@@ -16,6 +16,9 @@ This project is a React Codeial App in which we use API() to fetch the details a
 - Run 'npm start'.
 - Enjoy :)
 
+## Site is live at: https://ankur-rai-19.github.io/React-Codeial-app/
+### NOTE:- To access the Above website, if you encounter a 404 page, simply click on the Codeial Logo. After doing so, the website should function properly.
+
 ## SOME SCREENSHOTS:
 ![1  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/8dc173de-9c89-400e-81f1-3015f03ee63b)
 ![2  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/06cf1fc9-7ec5-4ce5-8ae9-6e9bc4001099)
