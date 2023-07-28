@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# **React Codeial App** 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ⭐ Introduction
+This project is a React Codeial App in which we use API() to fetch the details along with some additional features. It is built using HTML, CSS, Javascript, and React.
 
-## Available Scripts
+- To share their thoughts and ideas on the app, users have the option to either log in or sign up.
+- Users can click on their profile button to see their necessary details like Name and Email and they can easily edit those details by clicking on the Edit Button.
+- To add a friend, simply click on "Add Friend," and to remove them, click on "Remove Friend." Your newly added friends will then appear in your "Friend list" section.
+- Users can easily search for other users by using the "Search" option.
+- You can explore additional features such as adding a post, liking a post, commenting on a post, and more.
 
-In the project directory, you can run:
+## 🔥 Getting Started With The Project
+- Fork the Project in your Repository.
+- Clone the Forked Repository in your Local System.
+- Run 'npm install'.
+- Run 'npm start'.
+- Enjoy :)
 
-### `npm start`
+## SOME SCREENSHOTS:
+![1  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/8dc173de-9c89-400e-81f1-3015f03ee63b)
+![2  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/06cf1fc9-7ec5-4ce5-8ae9-6e9bc4001099)
+![3  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/eecbec27-8e96-4112-a233-ec17106958e8)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+After Login
+![4  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/fa915ce2-21bf-4dfe-99af-3529e344db64)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Users Profile
+![5  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/65444768-8247-4280-8954-1ab64dfe04a2)
+![6  codeial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/9a85ccfe-d250-46a8-969e-8fd79e78808e)
 
-### `npm test`
+Posted Content User Profile
+![7  codial](https://github.com/Ankur-Rai-19/React-Codeial-app/assets/125396300/3f4081b1-7ca5-418e-948c-41a3d3ba03cc)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
